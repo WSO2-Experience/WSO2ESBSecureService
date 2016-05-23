@@ -1,0 +1,19 @@
+!SESSION 2016-05-23 17:15:13.980 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_91
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -data /home/nifras/Desktop/Workspace3 -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui.browser 2 0 2016-05-23 17:15:22.732
+!MESSAGE Internal browser is not available: No more handles [Unknown Mozilla path (MOZILLA_FIVE_HOME not set)]
+
+!ENTRY org.wso2.tools.eclipse.platform.core 4 0 2016-05-23 17:22:51.152
+!MESSAGE resource file does not have an extension
+
+!ENTRY org.wso2.tools.eclipse.platform.core 4 0 2016-05-23 17:22:51.191
+!MESSAGE resource file does not have an extension
+
+!ENTRY org.wso2.tools.eclipse.platform.core 2 0 2016-05-23 17:25:26.357
+!MESSAGE CApp type "service/dataservice" is already registered with another handler
